@@ -1,1 +1,1 @@
-We don't store your data. Period.
+This app does not collect, store, or share any personal information from its users.

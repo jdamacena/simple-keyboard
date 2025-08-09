@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     defaultConfig {
-        applicationId "rkr.simplekeyboard.inputmethod"
+        applicationId "com.juniordamacena.focuskeyboard"
         compileSdk 35
         minSdkVersion 19
         targetSdkVersion 35
@@ -15,7 +15,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    namespace 'rkr.simplekeyboard.inputmethod'
+    namespace 'com.juniordamacena.focuskeyboard'
 }
 
 dependencies {
